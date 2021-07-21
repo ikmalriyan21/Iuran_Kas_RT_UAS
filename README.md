@@ -18,6 +18,30 @@ Tampilan Tabel Iuran
 
 
 
+![input](https://github.com/ikmalriyan21/Iuran_Kas_RT_UAS/blob/51684532a987585f85de483629e963af0e31b6d9/Screenshot/tabel%20iuran.png)
+
+Tampilan Data Warga
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
