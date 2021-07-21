@@ -32,18 +32,4 @@ Link demo aplikasi (Web Host)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![input](https://github.com/ikmalriyan21/Iuran_Kas_RT_UAS/blob/1e0d002753dd691686d960c93fe86afff26783d3/Screenshot/tampilan%20data%20iuran%20warga.png)
